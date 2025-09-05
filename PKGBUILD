@@ -5,7 +5,7 @@ pkgname=(
   'orchis-nord-theme-git'
 )
 pkgbase=orchis-theme-git
-pkgver=2025.04.25.r0.g5b73376
+pkgver=2025.04.25.r27.g8cb8cbd
 pkgrel=1
 pkgdesc="A Material Design theme for GNOME/GTK based desktop environments."
 arch=('any')
